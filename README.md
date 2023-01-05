@@ -1,0 +1,2 @@
+# equivalent-string
+equivalent string
